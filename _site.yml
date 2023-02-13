@@ -1,5 +1,5 @@
 name: "."
-title: "Finance internationale"
+title: "Ingénierie Financière"
 description: |
   Cours de Finance de finance internationale
 output_dir: "docs"
@@ -8,7 +8,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Plan"
     - text: "Plan du cours"
       href: plan.html
     - text: "Lessons" 
