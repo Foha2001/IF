@@ -1,0 +1,34 @@
+---
+title: "Plan du cours"
+
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+# Chapitre 1 : 
+Le marché des options
+
+ Section 1 : les caractéristiques du marché des options
+ 
+ Section 2 : les stratégies sur les options
+
+# Chapitre 2 : 
+les modèles d'évaluation des options
+
+Section 1 :le modèle en temps discret 
+
+Section 2 :le modèle en temps continu  
+
+
+
+
+
+
+
+
+
+
