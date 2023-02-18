@@ -8,5 +8,18 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Voici les Quiz du chapitre 1
+# 1) L'option définition (part 1)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BPgh5QyITcE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+# 2) L'option définition (Part 2)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gid9GK0i4e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# 3) La notion de Payoff
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YFi44o9Vaew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+# 4) Calcul de gain de l'acheteur d'un call
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-iUKH_Uqmuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

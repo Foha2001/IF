@@ -1,7 +1,7 @@
 name: "."
 title: "Ingénierie Financière"
 description: |
-  Cours de Finance de finance internationale
+  Cours d'ingénierie financière
 output_dir: "docs"
 theme: mytheme.css
 navbar:
