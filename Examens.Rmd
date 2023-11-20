@@ -1,0 +1,77 @@
+---
+title: "Examens"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Examen de 2023
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2023.pdf"), text = "Lien 2023")`
+</div>
+
+- Examen de 2022
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2022.pdf"), text = "Lien 2022")`
+</div>
+
+- Examen de 2021
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2021.pdf"), text = "Lien 2021")`
+</div>
+
+- Examen de 2020
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2020.pdf"), text = "Lien 2020")`
+</div>
+
+- Examen de 2019
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2019.pdf"), text = "Lien 2019")`
+</div>
+
+- Examen de 2018
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2018.pdf"), text = "Lien 2018")`
+</div>
+
+- Examen de 2016
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2016.pdf"), text = "Lien 2016")`
+</div>
+
+- Examen de 2015
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2015.pdf"), text = "Lien 2015")`
+</div>
+
+- Examen de 2014
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "examen ingenierie financiere 2014.pdf"), text = "Lien 2014")`
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
