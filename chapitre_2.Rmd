@@ -1,7 +1,7 @@
 ---
 title: "Chapitre 2"
 description: |
-  Dans cette section vous trouverez l'essentiel du chapitre 2
+  
 # author:
 #   - name: Nora Jones 
 #     url: https://example.com/norajones
@@ -14,3 +14,11 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
+- Fichier Excel pour le calcul des prix des options
+
+<div class="contributor_org">
+`r xfun::embed_file(here::here("files", "DG400a.xls"), text = "Lien de téléchargement")`
+</div>
+
